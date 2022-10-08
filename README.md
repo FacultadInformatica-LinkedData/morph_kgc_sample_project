@@ -1,6 +1,12 @@
 ## Morph KGC example project
 
-This sample project may help you organize your data and mappings.
+This sample project may help you organize your data and mappings for morph-kgc.
+
+### Pre-requisites
+Install [morph-kgc](https://github.com/oeg-upm/morph-kgc)
+
+
+### Example project
 The `configuration.ini` contains the paths to the mappings and datasets to process. Once you have set them up, simply run morph-kgc with the following command:
 
 `python3 -m morph_kgc config.ini`
